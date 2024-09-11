@@ -7,9 +7,9 @@ function CardList() {
     {
         "brand": "BMW",
         "model": "BMW M5 CS",
-        "year": 2021,
-        "horsepower": 1200,
-        "price": "$221,000",
+        "year": 2022,
+        "horsepower": 825,
+        "price": "$243,600",
         "image": "https://paultan.org/image/2021/01/BMW-M5-CS-44-e1611714615569.jpg"
     },
     {
@@ -17,7 +17,7 @@ function CardList() {
         "model": "Mercedes-AMG E 63 S",
         "year": 2022,
         "horsepower": 603,
-        "price": "$117,000",
+        "price": "$270,000",
         "image": "https://media.drive.com.au/obj/tx_q:50,rs:auto:1920:1080:1/driveau/upload/cms/uploads/k3dd7jm4pkhmvcxt0kpq"
     },
     {

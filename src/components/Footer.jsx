@@ -28,7 +28,7 @@ function Footer({ subscribeText }) {
                         className={`p-3 rounded-full border-2 ${isDarkMode ? 'border-gray-700 bg-gray-800 text-white' : 'border-gray-200 bg-white text-black'} shadow-md focus:outline-none focus:ring-2 focus:ring-purple-500 w-64`}
                     />
                     <button className="ml-2 px-6 py-3 rounded-full bg-[#4E20FF] text-white font-bold shadow-md hover:bg-purple-700 transition duration-300">
-                        {subscribeText}
+                       Subscribe {subscribeText}
                     </button>
                 </div>
             </div>
